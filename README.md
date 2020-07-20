@@ -8,6 +8,9 @@ Gallery app
 
     ` git clone https://github.com/Ammly/express-gallery.git `
 
-2. Run with docker compose
+2. Change into `express gallery` dir
+    ` cd express-gallery `
+
+3. Run with docker compose
 
     ` docker compose up -d `
