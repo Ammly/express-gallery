@@ -15,3 +15,9 @@ Gallery app
 #### Run with docker compose
 
     docker-compose up -d
+
+#### Project will be availlable at
+
+    Darkroom App: ` http://localhost:3000/ `
+
+    Mongo Express: ` http://localhost:8081/ `
