@@ -4,14 +4,14 @@ Gallery app
 
 ## Usage
 
-### Clone this repo
+1. Clone this repo
 
     git clone https://github.com/Ammly/express-gallery.git
 
-### Change into `express gallery` dir
+2. Change into `express gallery` dir
 
     cd express-gallery
 
-### Run with docker compose
+3. Run with docker compose
 
-    docker compose up -d
+    docker-compose up -d
