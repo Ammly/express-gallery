@@ -46,9 +46,7 @@ router.post('/upload', (req, res) => {
             newPhoto.save()
 
             // Redirect to the index page and pass a msg to the template
-            res.render('index', {
-                msg: 'Error: File uploaded successfully'
-            })
+            res.redirect('/')
         }
     })
 })
