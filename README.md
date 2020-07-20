@@ -18,6 +18,6 @@ Gallery app
 
 #### Project will be availlable at
 
-    Darkroom App: ` http://localhost:3000/ `
+    Darkroom App: http://localhost:3000/
 
-    Mongo Express: ` http://localhost:8081/ `
+    Mongo Express: http://localhost:8081/
